@@ -29,7 +29,7 @@ github_username:  olisocks
 
 # Build settings
 # theme: jekyll-theme-cayman
-remote_theme: barber-jekyll
+remote_theme: samesies/barber-jekyll
 plugins:
   - jekyll-feed
 
